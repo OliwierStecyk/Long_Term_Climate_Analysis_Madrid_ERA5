@@ -1,0 +1,13 @@
+pandas
+numpy<2.0.0
+matplotlib
+seaborn
+xarray
+scipy
+geopandas
+
+
+cfgrib
+pyarrow
+
+tqdm

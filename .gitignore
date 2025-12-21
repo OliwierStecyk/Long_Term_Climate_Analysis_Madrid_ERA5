@@ -1,0 +1,7 @@
+# środowisko
+.venv/
+venv/
+
+# dane
+raw_data/
+clean_data/
