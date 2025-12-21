@@ -2,6 +2,25 @@
 .venv/
 venv/
 
+# IDE
+.idea/
+
+# cache
+__pycache__/
+*.pyc
+
 # dane
 raw_data/
 clean_data/
+
+# ignoruj wszystko poza tym co chcemy
+*
+!src/
+!src/**
+!DIR/
+!DIR/**
+!notebooks/
+!notebooks/**
+!requirements.txt
+!README.md
+!.gitignore
