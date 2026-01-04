@@ -50,8 +50,8 @@ Aby uruchomić projekt lokalnie i odtworzyć środowisko analityczne, wykonaj po
 Ze względu na duży rozmiar danych klimatycznych, surowe pliki GRIB nie są przechowywane bezpośrednio w repozytorium GitHub. Aby umożliwić pełną replikowalność projektu, udostępniam dane w mojej chmurze.
 
 ### 🔗 Linki do pobrania:
-- [**Pobierz surowe pliki GRIB (Raw Data)**]([LINK_DO_FOLDERU_RAW](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Wymagane do przetestowania skryptu ETL.* Folder clean_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
-- [**Pobierz przetworzone pliki Parquet (Clean Data)**]([LINK_DO_FOLDERU_CLEAN](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Zalecane do natychmiastowego rozpoczęcia analizy EDA.* Folder raw_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
+- [**Pobierz surowe pliki GRIB (Raw Data)**]([[LINK_DO_FOLDERU_RAW](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Wymagane do przetestowania skryptu ETL.* Folder clean_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
+- [**Pobierz przetworzone pliki Parquet (Clean Data)**]([[LINK_DO_FOLDERU_CLEAN](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Zalecane do natychmiastowego rozpoczęcia analizy EDA.* Folder raw_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
 
 ### 🛠️ Instrukcja przygotowania danych:
 Aby skrypty i notebooki działały poprawnie, umieść pobrane pliki w następujących ścieżkach:
