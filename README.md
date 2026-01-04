@@ -200,7 +200,7 @@ bez konieczności ponownego przetwarzania danych GRIB.
 ```
 
 Pełna analiza statystyczna oraz opis metodologii znajdują się w pliku:
-[Link do raportu PDF]([reports/twoja_nazwa_raportu.pdf](https://github.com/OliwierStecyk/Long_Term_Climate_Analysis_Madrid_ERA5/blob/main/AnalizaKlimatu.pdf))
+[Link do raportu PDF]([AnalizaKlimatu.pdf))
 
 ---
 
