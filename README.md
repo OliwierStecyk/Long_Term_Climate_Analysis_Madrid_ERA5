@@ -52,7 +52,7 @@ Ze względu na duży rozmiar danych klimatycznych, surowe pliki GRIB nie są prz
 ### 🔗 Linki do pobrania: 
 
 📁 Folder Google Drive z plikami:  
-🔗 https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing
+🔗 [https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing](https://drive.google.com/drive/folders/1-pyDSp7NGHnwJfZwFAM1SPUIIjeuZWrL?usp=drive_link)
 
 - [**Pobierz surowe pliki GRIB (Raw Data)**]([[LINK_DO_FOLDERU_RAW](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Wymagane do przetestowania skryptu ETL.* Folder clean_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
 - [**Pobierz przetworzone pliki Parquet (Clean Data)**]([[LINK_DO_FOLDERU_CLEAN](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)](https://drive.google.com/drive/folders/1gCwpwlnuV6SC0wL7fQi-IuB0bGwpKou0?usp=sharing)) – *Zalecane do natychmiastowego rozpoczęcia analizy EDA.* Folder raw_data należy cały razem z zawartością pobrać i wrzucić ten folder bezpośrednio do projektu
