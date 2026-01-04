@@ -199,6 +199,9 @@ na podstawie plików Parquet dostępnych w folderze clean_data/,
 bez konieczności ponownego przetwarzania danych GRIB.
 ```
 
+Pełna analiza statystyczna oraz opis metodologii znajdują się w pliku:
+[Link do raportu PDF](reports/twoja_nazwa_raportu.pdf)
+
 ---
 
 
